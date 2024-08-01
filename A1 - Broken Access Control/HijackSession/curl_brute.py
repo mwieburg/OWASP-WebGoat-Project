@@ -1,3 +1,5 @@
+#Author: Micah Wieburg
+
 import requests
 import sys
 
