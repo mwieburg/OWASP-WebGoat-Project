@@ -1,3 +1,11 @@
+##################################################
+## Python script for exploiting user profile IDOR by fetching user profile information by fuzzing the profile id in GET request
+##################################################
+## Author: Micah Wieburg
+## License: MIT License
+## Copyright: Copyright (c) 2024 mwieburg
+## Project: OWASP Webgoat
+
 import requests
 import sys
 
