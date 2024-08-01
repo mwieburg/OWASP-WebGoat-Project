@@ -1,3 +1,11 @@
+##################################################
+## Python script for updating user profile data via PUT request after escalating privileges to admin
+##################################################
+## Author: Micah Wieburg
+## License: MIT License
+## Copyright: Copyright (c) 2024 mwieburg
+## Project: OWASP Webgoat
+
 import requests
 import sys
 
