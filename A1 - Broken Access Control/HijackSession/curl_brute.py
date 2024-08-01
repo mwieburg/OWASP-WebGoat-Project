@@ -1,10 +1,9 @@
 ##################################################
 ## Python script for use in brute forcing a valid hijack cookie for OWASP WebGoat HiJackSession lession
 ##################################################
-## {License_info}
-##################################################
 ## Author: Micah Wieburg
-## License: {license}
+## License: MIT License
+## Copyright: Copyright (c) 2024 mwieburg
 
 import requests
 import sys
