@@ -1,5 +1,5 @@
 ##################################################
-## Python script for updating user profile data via PUT request after escalating privileges to admin
+## Python script for updating user profile data via PUT request to exploit IDOR using valid session id
 ##################################################
 ## Author: Micah Wieburg
 ## License: MIT License
