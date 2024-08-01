@@ -1,3 +1,11 @@
+##################################################
+## Python script for fetching user hashes via GET request from hidden admin URL
+##################################################
+## Author: Micah Wieburg
+## License: MIT License
+## Copyright: Copyright (c) 2024 mwieburg
+## Project: OWASP Webgoat
+
 import requests
 import sys
 
