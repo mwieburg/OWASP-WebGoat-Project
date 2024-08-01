@@ -1,3 +1,11 @@
+##################################################
+## Python script for spoofing authentication cookie and login as Tom via POST request
+##################################################
+## Author: Micah Wieburg
+## License: MIT License
+## Copyright: Copyright (c) 2024 mwieburg
+## Project: OWASP Webgoat
+
 import requests
 import sys
 import base64
