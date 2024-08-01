@@ -1,3 +1,11 @@
+##################################################
+## Python script for sending POST request to escalate user privilges to admin
+##################################################
+## Author: Micah Wieburg
+## License: MIT License
+## Copyright: Copyright (c) 2024 mwieburg
+## Project: OWASP Webgoat
+
 import requests
 import sys
 
