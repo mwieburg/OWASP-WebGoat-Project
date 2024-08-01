@@ -1,3 +1,11 @@
+##################################################
+## Python script for getting user details after admin fix is implemented on web app
+##################################################
+## Author: Micah Wieburg
+## License: MIT License
+## Copyright: Copyright (c) 2024 mwieburg
+## Project: OWASP Webgoat
+
 import requests
 import sys
 
